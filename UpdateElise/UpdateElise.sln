@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UpdateElise", "UpdateElise\UpdateElise.vcxproj", "{25D3D572-5769-43F3-A758-37CB89B030ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25D3D572-5769-43F3-A758-37CB89B030ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{25D3D572-5769-43F3-A758-37CB89B030ED}.Debug|Win32.Build.0 = Debug|Win32
+		{25D3D572-5769-43F3-A758-37CB89B030ED}.Release|Win32.ActiveCfg = Release|Win32
+		{25D3D572-5769-43F3-A758-37CB89B030ED}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
